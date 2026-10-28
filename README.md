@@ -129,25 +129,34 @@ plt.imshow(cv2.cvtColor(cropped_image, cv2.COLOR_BGR2RGB))
 plt.title("Cropped Image")
 plt.axis('off')
 
----
+```
 
-### Output
+### OUTPUT
 
 ### Image Translation
+<img width="235" height="397" alt="Screenshot 2026-10-28 090921" src="https://github.com/user-attachments/assets/ad52dcd3-068f-4471-bb87-db3b2dbf378b" />
 
+<img width="215" height="430" alt="Screenshot 2026-10-28 090904" src="https://github.com/user-attachments/assets/ca14637e-b477-48b5-a63f-12b10f91d999" />
 
 
 
 ### Image Scaling
+<img width="492" height="371" alt="image" src="https://github.com/user-attachments/assets/9f6c21cd-0e00-4c93-a7cf-259226678bfb" />
 
 
 ### Image Shearing
+<img width="235" height="396" alt="image" src="https://github.com/user-attachments/assets/f58a18b0-5c1a-4454-8297-95f43572b69b" />
 
 
 ### Image Reflection
+<img width="232" height="387" alt="image" src="https://github.com/user-attachments/assets/aa2351fe-e39a-4cb3-b587-9ebf3e7f9658" />
 
 
 ### Image Rotation
+<img width="227" height="387" alt="image" src="https://github.com/user-attachments/assets/f8a72f0d-10bb-4786-bb05-d6a9091f3a0e" />
+
+### Image Cropped
+<img width="491" height="387" alt="image" src="https://github.com/user-attachments/assets/8f911884-dfb7-4475-8419-f3516dced007" />
 
 
 ---
